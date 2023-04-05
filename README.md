@@ -1,4 +1,8 @@
 # profiling-example
+* **optional**: create a new binary crate (or just use this repository)
+  ```bash
+  cargo init --bin
+  ```
 * install flamegraph into cargo
   ```bash
   cargo install flamegraph
