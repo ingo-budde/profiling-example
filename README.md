@@ -11,3 +11,10 @@
   ```bash
   sudo CARGO_PROFILE_RELEASE_DEBUG=true cargo flamegraph
   ````
+
+
+# Links
+* Flamegraph - https://github.com/flamegraph-rs/flamegraph
+* Puffin - https://github.com/EmbarkStudios/puffin
+* Tracing - https://docs.rs/tracing/latest/tracing/
+* Perf - https://rust-lang.github.io/packed_simd/perf-guide/prof/linux.html // https://rustc-dev-guide.rust-lang.org/profiling/with_perf.html
